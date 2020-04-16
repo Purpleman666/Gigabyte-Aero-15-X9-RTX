@@ -1,0 +1,14 @@
+Repository fr Gigabyte-Aero-15-X9-RTX coffee Lake Opencore project tested over Mojave and Catalina. 
+
+Some issues for the moment with trackpad, thunderbolt...work in progress
+For the wifi, I use a usb key. (https://github.com/chris1111?tab=repositories)
+
+What's working : 
+- 4k screen (intel HD630)
+- Audio AL255
+- Keyboard
+- Webcam
+- ethernet
+- USB
+
+
